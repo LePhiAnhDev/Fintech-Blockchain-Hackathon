@@ -395,7 +395,7 @@ async def generate_smart_plan(request: SmartPlanningRequest):
         import google.generativeai as genai
         
         # Configure Gemini API
-        api_key = os.getenv("GOOGLE_API_KEY", "AIzaSyBMUWY-Fc_wMK7yjCwWdQ_L24kPlndKri0")
+        api_key = os.getenv("GOOGLE_API_KEY", "GOOGLE_API_KEY")
         if not api_key:
             raise ValueError("GOOGLE_API_KEY not found")
         
