@@ -1,0 +1,12 @@
+{
+  "contractAddress": "0x68bDBfe015f454239A259795fa523475894601e0",
+  "transactionHash": "0x5fcf3bc42e4e8f76b8ec0027d4b9472c35000df4bb711d02799ceda7934bc070",
+  "deployerAddress": "0xE978820dc4803CDfCC92c54A7e3950bE8836b8E9",
+  "networkName": "sepolia",
+  "chainId": "11155111",
+  "deployedAt": "2025-06-30T17:12:27.218Z",
+  "contractName": "AcademicNFT",
+  "mintPrice": "0.01",
+  "platformFeePercent": 1,
+  "maxRoyaltyPercent": 20
+}

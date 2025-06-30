@@ -1,0 +1,14 @@
+# File log
+ai_server.log
+
+# Thư mục videos
+videos/
+
+# Thư mục env (thường là môi trường ảo)
+env/
+
+# Thư mục __pycache__ (tự động tạo bởi Python)
+__pycache__/
+
+# Thư mục node_modules (tự động tạo bởi npm/yarn)
+node_modules/
